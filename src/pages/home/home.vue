@@ -9,11 +9,17 @@
       <!--<Scroll></Scroll>-->
       <!--<Footer-bar></Footer-bar>-->
       <mt-tabbar  fixed class="footer">
-        <mt-tab-item id="列表" href="/">
-         列表
+        <mt-tab-item id="0" href="/">
+            电影
         </mt-tab-item>
-        <mt-tab-item id="我的" href="/#/mine">
-          我的
+        <mt-tab-item id="1" href="/">
+            音乐
+        </mt-tab-item>
+        <mt-tab-item id="2" href="/">
+            图书
+        </mt-tab-item>
+        <mt-tab-item id="3" href="/#/mine">
+            我的
         </mt-tab-item>
       </mt-tabbar>
 	</div>
@@ -57,6 +63,6 @@ export default {
   }
   .footer a{
     padding: 10px 0;
-    color:#ccc;
+    color:#42bd56;
   }
 </style>

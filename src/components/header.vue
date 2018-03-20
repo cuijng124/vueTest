@@ -46,8 +46,8 @@
       display: -webkit-box;
       -webkit-box-flex: 1;
       height: 32px;
-      border-radius: 16px;
-      border:1px solid #78C500;
+      border-radius: 4px;
+      border:1px solid #42bd56;
       overflow: hidden;
       position: relative;
       font-size: 14px;
